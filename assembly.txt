@@ -1,0 +1,4 @@
+genome hg19_genome_16
+trackDb trackDb.txt
+twoBitPath ./hg19/hg19_genome_16.2bit
+defaultPos chr16:102531392-102532392

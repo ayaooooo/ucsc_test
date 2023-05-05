@@ -1,0 +1,6 @@
+hub first_hub
+shortLabel first_hub
+longLabel first_hub
+genomesFile genomes.txt
+email dongsiyao@bgi.com
+description This is the first hub.
