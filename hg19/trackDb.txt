@@ -1,0 +1,6 @@
+track example_data
+shortLabel Example Data
+longLabel Example Data Track
+type bam
+visibility full
+bigDataUrl https://github.com/ayaooooo/ucsc_test/raw/main/16.bam
