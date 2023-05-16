@@ -1,5 +1,4 @@
 browser position chr1:17345196-17380547
-browser full altGraph
 track type=bedGraph name="BedGraph Format" description="BedGraph format" visibility=full color=200,100,0
 chr1	17345196	17345473	249.44
 chr1	17349082	17349245	335.93
